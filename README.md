@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TwoSumVisualization
 
@@ -93,3 +94,13 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 40c60fe (Array Operations)
